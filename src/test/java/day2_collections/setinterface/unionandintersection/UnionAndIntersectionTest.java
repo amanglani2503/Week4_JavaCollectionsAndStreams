@@ -1,5 +1,6 @@
-package day2_collections.setinterface.areequal.unionandintersection;
+package day2_collections.setinterface.unionandintersection;
 
+import day2_collections.setinterface.unionandintersection.UnionAndIntersection;
 import org.junit.jupiter.api.Test;
 import java.util.Arrays;
 import java.util.HashSet;

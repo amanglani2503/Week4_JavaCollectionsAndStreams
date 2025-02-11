@@ -1,4 +1,4 @@
-package day2_collections.setinterface.areequal.unionandintersection;
+package day2_collections.setinterface.unionandintersection;
 
 import java.util.Arrays;
 import java.util.HashSet;
