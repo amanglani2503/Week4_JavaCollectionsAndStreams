@@ -1,4 +1,4 @@
-package day5regex.hexcolorcode;
+package day5regex.basicregexproblems.hexcolorcode;
 
 import java.util.regex.Pattern;
 

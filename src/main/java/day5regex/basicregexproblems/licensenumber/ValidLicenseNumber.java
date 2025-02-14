@@ -1,4 +1,4 @@
-package day5regex.licensenumber;
+package day5regex.basicregexproblems.licensenumber;
 
 import java.util.regex.Pattern;
 
