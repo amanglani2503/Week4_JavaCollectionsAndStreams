@@ -1,4 +1,4 @@
-package day5regex.validateusername;
+package day5regex.basicregexproblems.validateusername;
 
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;

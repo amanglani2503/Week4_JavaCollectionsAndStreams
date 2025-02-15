@@ -1,4 +1,4 @@
-package day5regex.hexcolorcode;
+package day5regex.basicregexproblems.hexcolorcode;
 
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;

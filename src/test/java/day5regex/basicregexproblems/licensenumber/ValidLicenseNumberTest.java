@@ -1,4 +1,4 @@
-package day5regex.licensenumber;
+package day5regex.basicregexproblems.licensenumber;
 
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
