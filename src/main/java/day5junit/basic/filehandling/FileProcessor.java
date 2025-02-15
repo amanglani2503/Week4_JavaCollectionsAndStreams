@@ -1,4 +1,4 @@
-package day5junit.basic;
+package day5junit.basic.filehandling;
 
 import java.io.*;
 
